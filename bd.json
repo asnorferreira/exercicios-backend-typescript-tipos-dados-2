@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "nome": "Ciclano",
+      "email": "exe2@example.com",
+      "cpf": "123.456.789-00",
+      "profissao": "Desenvolvedor Back-end",
+      "endereco": {
+        "cep": "12345-678",
+        "rua": "Rua das Flores",
+        "bairro": "Centro",
+        "cidade": "Cidade B"
+      }
+    }
+  ]
+}
